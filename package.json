@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "bulma-checkradio": "^2.1.0"
+  }
+}
